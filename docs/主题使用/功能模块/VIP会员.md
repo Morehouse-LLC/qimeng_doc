@@ -1,4 +1,9 @@
+---
+sidebar_position: 5.95
+---
+
 # VIP会员
+作者：[阿城](https://blog.morehouse-s.com/)
 
 ## 启用VIP会员系统
 ![](https://a1.boltp.com/2026/02/27/69a182d83462f.png)
