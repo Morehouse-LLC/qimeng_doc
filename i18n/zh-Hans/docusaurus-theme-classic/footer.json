@@ -15,21 +15,21 @@
     "message": "安装",
     "description": "The label of footer link with label=安装 linking to /docs/intro"
   },
-  "link.item.label.官方网站(建设中)": {
-    "message": "官方网站(建设中)",
-    "description": "The label of footer link with label=官方网站(建设中) linking to https://www.qiimeng.com/"
+  "link.item.label.官方网站": {
+    "message": "官方网站",
+    "description": "The label of footer link with label=官方网站 linking to https://www.qiimeng.com/"
   },
   "link.item.label.QQ群(内测群)": {
     "message": "QQ群(内测群)",
     "description": "The label of footer link with label=QQ群(内测群) linking to https://qm.qq.com/q/OWGdraSf84"
   },
-  "link.item.label.滥用举报(建设中)": {
-    "message": "滥用举报(建设中)",
-    "description": "The label of footer link with label=滥用举报(建设中) linking to https://www.qiimeng.com/"
+  "link.item.label.滥用举报": {
+    "message": "滥用举报",
+    "description": "The label of footer link with label=滥用举报 linking to https://qiimeng.com/auth-check/"
   },
-  "link.item.label.论坛": {
-    "message": "论坛",
-    "description": "The label of footer link with label=论坛 linking to https://www.qiimeng.com/bbs"
+  "link.item.label.论坛(建设中)": {
+    "message": "论坛(建设中)",
+    "description": "The label of footer link with label=论坛(建设中) linking to https://www.qiimeng.com/"
   },
   "link.item.label.云电工作室": {
     "message": "云电工作室",

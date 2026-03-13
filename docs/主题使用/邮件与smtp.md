@@ -54,5 +54,5 @@ SMTP 服务使用的网络端口，与加密方式对应。
 
 ### 邮件 HTML 模板
 ![](https://a1.boltp.com/2026/03/13/69b38d607ede7.png)
-可用变量：{site_name} {site_url} {subject} {content} {date} {year}
-请保留 {content} 变量用于显示正文内容；留空将使用主题默认模板。
+可用变量：`{site_name}` `{site_url}` `{subject}` `{content}` `{date}` `{year}`
+请保留 `{content}` 变量用于显示正文内容；留空将使用主题默认模板。
