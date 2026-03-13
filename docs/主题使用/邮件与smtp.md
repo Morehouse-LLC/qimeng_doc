@@ -44,3 +44,15 @@ SMTP 服务使用的网络端口，与加密方式对应。
 
 ### 发送测试邮件
 点击此按钮后，系统会使用你配置好的 SMTP 参数，向你填写的测试邮箱发送一封测试邮件。
+
+## 邮件 HTML 模板
+
+### 启用邮件 HTML 模板
+![](https://a1.boltp.com/2026/03/13/69b38d0ea671d.png)
+开启后，站点通过 wp_mail 发送的邮件会使用下面的 HTML 模板包装。
+
+
+### 邮件 HTML 模板
+![](https://a1.boltp.com/2026/03/13/69b38d607ede7.png)
+可用变量：{site_name} {site_url} {subject} {content} {date} {year}
+请保留 {content} 变量用于显示正文内容；留空将使用主题默认模板。
